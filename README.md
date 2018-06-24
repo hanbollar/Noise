@@ -3,24 +3,24 @@ CIS 700: Procedural Graphics Hw0
 
 ## View the Project
 
-# [Click Here](https://hanbollar.github.io/Project1-Noise)
+# [Click Here](https://hanbollar.github.io/Noise)
 
 ## Project Notes
 
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still1.png "Image 1")
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still1.png "Image 1")
 
 
 Using WebGL and Javascript created spheres with procedurally rendered animation based on 
 noise functions.
 
 Outcome image 1 (that the project was looking for)
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still1.png "Image 1")
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still1.png "Image 1")
 
 Outcome image 2 (noise for shape splatterings of color)
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still2.png "Image 2")
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still2.png "Image 2")
 
 Outcome image 3 (symmetrical position based noise)
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still3.png "Image 3")
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still3.png "Image 3")
 
 I came up with one main noise animation that worked as expected; however, it broke when i was
 testing different features. While I was fixing it I came across two additional configurations that
@@ -44,9 +44,9 @@ other (extra credit) loading up different materials into the shader in real time
 are depicted below (on different figures to further illustrate the effect of noise on the surfaces).
 
 
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still4.png "Image 4")
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still4.png "Image 4")
 
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still5.png "Image 5")
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still5.png "Image 5")
 
-![alt text](https://github.com/hanbollar/Project1-Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still6.png "Image 6"))
+![alt text](https://github.com/hanbollar/Noise/blob/a03262b73d3c30cfa6915e465cd7e778c1cfe086/still6.png "Image 6"))
 	
